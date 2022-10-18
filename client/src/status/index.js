@@ -1,0 +1,1 @@
+// gọi api từ context và reducer

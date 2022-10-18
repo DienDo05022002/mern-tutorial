@@ -1,0 +1,32 @@
+{
+  "name": "sever",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "sever": "nodemon src/severs",
+    "test": "fullstack-mern, mern, MERN"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DienDo05022002/mern-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DienDo05022002/mern-tutorial/issues"
+  },
+  "homepage": "https://github.com/DienDo05022002/mern-tutorial#readme",
+  "dependencies": {
+    "argon2": "^0.29.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "http-errors": "^2.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
